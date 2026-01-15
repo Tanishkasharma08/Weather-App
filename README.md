@@ -1,4 +1,4 @@
-  **##Weather App 🌤️ – Python Desktop Weather Application**
+#  **Weather App 🌤️ – Python Desktop Weather Application**
 
 Weather App is a simple and interactive desktop application developed using Python and Tkinter. The app fetches and displays real-time weather information for any city using the OpenWeatherMap API, making it a beginner-friendly Python project that demonstrates API integration, GUI development, and basic backend logic.
 
