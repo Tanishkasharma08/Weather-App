@@ -1,4 +1,4 @@
-**Weather App 🌤️ – Python Desktop Weather Application**
+  **##Weather App 🌤️ – Python Desktop Weather Application**
 
 Weather App is a simple and interactive desktop application developed using Python and Tkinter. The app fetches and displays real-time weather information for any city using the OpenWeatherMap API, making it a beginner-friendly Python project that demonstrates API integration, GUI development, and basic backend logic.
 
@@ -28,7 +28,7 @@ Weather App is a simple and interactive desktop application developed using Pyth
 2. Install dependencies using the command:
 pip install requests
 3. Replace the API key in weather_app.py with your OpenWeatherMap API key:
-api_key = "795d0d22cf67b728e9f884e11eab217b"
+   api_key = "795d0d22cf67b728e9f884e11eab217b"
 4. Run the application:
 python weather_app.py
 5. Enter a city name in the app and click Search or press Enter
