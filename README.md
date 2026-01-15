@@ -26,12 +26,18 @@ Weather App is a simple and interactive desktop application developed using Pyth
 ## **How to Run the Project Locally**
 1. Install Python on your system
 2. Install dependencies using the command:
-pip install requests
-3. Replace the API key in weather_app.py with your OpenWeatherMap API key:
+
+   pip install requests
+   
+4. Replace the API key in weather_app.py with your OpenWeatherMap API key:
+
    api_key = "795d0d22cf67b728e9f884e11eab217b"
-4. Run the application:
-python weather_app.py
-5. Enter a city name in the app and click Search or press Enter
+   
+5. Run the application:
+
+   python weather_app.py
+   
+7. Enter a city name in the app and click Search or press Enter
 
 ## **Project Structure**
 - weather_app.py → Main Python file with Tkinter GUI and weather logic
